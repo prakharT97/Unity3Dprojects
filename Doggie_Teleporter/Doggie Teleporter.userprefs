@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\isCarry.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MovementControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\nonTeleport.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\groundCheck.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\isCarry.cs" Line="54" Column="53" />
+      <File FileName="Assets\Scripts\Boulder.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\breakPlat.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\fanForce.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
